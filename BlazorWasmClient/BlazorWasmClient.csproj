@@ -59,7 +59,6 @@
 	</ItemGroup>
 
 
-
 	<ItemGroup>
 	  <_ContentIncludedByDefault Remove="Components\TodoApp\TodoItem.razor" />
 	  <_ContentIncludedByDefault Remove="Components\TodoApp\TodoItems.razor" />
